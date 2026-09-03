@@ -71,7 +71,7 @@ export default function Step10Final({ data }: Props) {
           <div className="bg-slate-50 p-4 rounded-lg flex items-center justify-between border border-border">
             <div>
               <p className="text-sm text-muted-foreground mb-1">اسم المستفيد</p>
-              <p className="font-bold text-lg">ليديا لونوغي</p>
+              <p className="font-bold text-lg">ايت سعدي شهيناز</p>
             </div>
             <Button
               variant="outline"
@@ -87,7 +87,7 @@ export default function Step10Final({ data }: Props) {
           <div className="bg-slate-50 p-4 rounded-lg flex items-center justify-between border border-border">
             <div>
               <p className="text-sm text-muted-foreground mb-1">رقم الـ RIP (بريد الجزائر)</p>
-              <p className="font-bold text-lg font-mono tracking-wider">00799999002826909327</p>
+              <p className="font-bold text-lg font-mono tracking-wider">00799999001717043087</p>
             </div>
             <Button
               variant="outline"
