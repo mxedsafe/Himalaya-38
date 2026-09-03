@@ -1,3 +1,8 @@
-name = "himalaya-beauty"
-pages_build_output_dir = "artifacts/himalaya-beauty/dist/public"
+name = "himalaya-38"
+main = "artifacts/api-server/dist/index.mjs" # (or leave your existing worker entry if you have one)
 compatibility_date = "2026-09-03"
+
+[assets]
+directory = "artifacts/himalaya-beauty/dist/public"
+binding = "ASSETS"
+
