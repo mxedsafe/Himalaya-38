@@ -1,6 +1,3 @@
 name = "himalaya-38"
+pages_build_output_dir = "artifacts/himalaya-beauty/dist/public"
 compatibility_date = "2026-09-03"
-
-[assets]
-directory = "artifacts/himalaya-beauty/dist/public"
-not_found_handling = "single-page-application"
